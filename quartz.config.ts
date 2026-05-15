@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    baseUrl: "Dmallick01.github.io/dmallick-brain",
+    baseUrl: "Dmallick01.github.io/dmallick-brain-web",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
