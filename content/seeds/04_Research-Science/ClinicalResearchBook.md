@@ -2,17 +2,18 @@
 title: "ClinicalResearchBook"
 category: Research
 status: active
-tags: ["research", "latex"]
-key_concepts: ["research", "latex", "science", "academic"]
+tags: ["research", "latex", "clinical", "medicine", "textbook"]
+key_concepts: ["research", "latex", "science", "academic", "clinical-research", "medicine", "study-design"]
 source_path: "/Users/dibakarmallick/Desktop/ClinicalResearchBook"
 created: "2026-05-15"
 seeded_by: claude-cowork
+description: "A comprehensive clinical research textbook authored in LaTeX, covering research methodology, study design, data analysis, and scientific writing for medical and clinical contexts. Serves as both a reference and a writing project connecting pre-med studies with hands-on research."
 ---
 
 # ClinicalResearchBook
 
 ## Summary
-No description found.
+A LaTeX-based clinical research textbook project covering study design, biostatistics, data interpretation, and scientific writing conventions used in medical and academic research. Bridges MCAT-level science content with practical clinical research methodology.
 
 ## Source
 `/Users/dibakarmallick/Desktop/ClinicalResearchBook`
@@ -33,6 +34,10 @@ No description found.
 - [[04_Research-Science/ilovepdf_converted]]
 - [[04_Research-Science/books-on-cma]]
 - [[04_Research-Science/files--1]]
+- [[03_MCAT-Prep/Kaplan/Biology]]
+- [[03_MCAT-Prep/Kaplan/Biochemistry]]
+- [[04_Research-Science/research-automation-system]]
+- [[04_Research-Science/catcall---Pharmaceutical-Chemistry]]
 
 
 ## Log

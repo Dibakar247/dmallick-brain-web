@@ -1,18 +1,19 @@
 ---
 title: "simplex research papers copy"
-category: Misc
+category: Research
 status: active
-tags: ["misc"]
-key_concepts: ["misc", "science", "academic", "research", "data-viz"]
+tags: ["research", "papers", "simplex", "science", "working-copy"]
+key_concepts: ["science", "academic", "research", "data-viz", "simplex", "working-copy", "editable"]
 source_path: "/Users/dibakarmallick/Desktop/simplex research papers copy"
 created: "2026-05-15"
 seeded_by: claude-cowork
+description: "An editable working copy of the Simplex research papers directory, used for iterative analysis, data modifications, and experimentation without altering the original source files. Contains the Research_Tank data repository as a subdirectory."
 ---
 
 # simplex research papers copy
 
 ## Summary
-No description found.
+A working copy of the Simplex research papers collection kept separate from the original to allow safe iterative editing and data processing. Houses the Research_Tank subdirectory and serves as the active workspace for research analysis and script development.
 
 ## Source
 `/Users/dibakarmallick/Desktop/simplex research papers copy`
@@ -33,6 +34,9 @@ No description found.
 - [[04_Research-Science/Resources]]
 - [[04_Research-Science/markupsafe-3-0-3-dist-info]]
 - [[04_Research-Science/python_dateutil-2-9-0-post0-dist-info]]
+- [[04_Research-Science/Research_Tank]]
+- [[04_Research-Science/visualizations]]
+- [[04_Research-Science/research-automation-system]]
 
 
 ## Log

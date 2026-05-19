@@ -2,17 +2,18 @@
 title: "MCAT PREP"
 category: Research
 status: in-progress
-tags: ["research", "pdf"]
-key_concepts: ["research", "pdf", "medicine", "pre-med", "biology", "chemistry"]
+tags: ["research", "pdf", "MCAT", "pre-med", "test-prep", "medicine"]
+key_concepts: ["research", "pdf", "medicine", "pre-med", "biology", "chemistry", "MCAT", "exam-prep", "test-strategy"]
 source_path: "/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP"
 created: "2026-05-15"
 seeded_by: claude-cowork
+description: "The master MCAT preparation resource directory containing study materials, strategy guides, and practice content covering all four MCAT sections: Chemical and Physical Foundations, Biological Foundations, Psychological Foundations, and CARS."
 ---
 
 # MCAT PREP
 
 ## Summary
-No description found.
+Master MCAT preparation folder consolidating study materials from multiple sources including Kaplan, ExamKrackers, The Berkeley Review, and UWorld. Covers all tested subjects: general chemistry, organic chemistry, biology, biochemistry, physics, psychology, sociology, and CARS reading comprehension.
 
 ## Source
 `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP`
@@ -33,6 +34,9 @@ No description found.
 - [[03_MCAT-Prep/ExamKrackers/The-Berkeley-Review-2015-MCAT--incomplete--missing-books]]
 - [[03_MCAT-Prep/ExamKrackers/Examkrackers-MCAT-Review-2015]]
 - [[03_MCAT-Prep/Kaplan/EK-TPR-Kaplan-Berkeley-MCAT-ALL-IN-ONE---1-98GB---FINAL-RELE]]
+- [[04_Research-Science/GQ-2025-Complete]]
+- [[04_Research-Science/catcall---Pharmaceutical-Chemistry]]
+- [[04_Research-Science/ClinicalResearchBook]]
 
 
 ## Log
